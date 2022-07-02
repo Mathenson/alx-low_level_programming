@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * Main - Determines if a number returns negative, positive or zero
+ * main - Determines if a number returns negative, positive or zero
  *
  * Return: Always 0 (Success)
  */
