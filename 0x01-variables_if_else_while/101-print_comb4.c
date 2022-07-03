@@ -2,7 +2,7 @@
 /**
  * main - Combining three numbers
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -14,7 +14,7 @@ int main(void)
 		{
 			for (f = '0'; f <= '9'; f++)
 			{
-				if (f > e && e < m)
+				if (f < e && e < m)
 				{
 					putchar(f);
 					putchar(e);
