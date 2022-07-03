@@ -12,7 +12,7 @@ int main(void)
 	{
 		for (e = '0'; e <= '9'; e++)
 		{
-			for (f = '0'; f <= '9'; f++)
+			for (m = '0'; m <= '9'; m++)
 			{
 				if (f < e && e < m)
 				{
