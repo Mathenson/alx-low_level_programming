@@ -1,17 +1,16 @@
 #include <stdio.h>
 /**
- * main - print alphabets backward
+ * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Alway 0 (Success)
  */
 int main(void)
 {
-	char alp[26] = "zyxwvutsrqponmlkjihgfedcba";
-	int i;
+	char j;
 
-	for (i = 0; i >= 26; i++)
+	for (j = 'z'; j >= 'a'; j--)
 	{
-		putchar(alp[i]);
+		putchar(j);
 	}
 	putchar('\n');
 	return (0);
