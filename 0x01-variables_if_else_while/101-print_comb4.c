@@ -2,19 +2,19 @@
 /**
  * main - Combining three numbers
  *
- * Return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int f, e, m;
-	
+
 	for (f = '0'; f <= '9'; f++)
 	{
 		for (e = '0'; e <= '9'; e++)
 		{
-			for (f = '0'; f <= '9'; f++)
+			for (m = '0'; m <= '9'; m++)
 			{
-				if (f > e && e < m)
+				if (f < e && e < m)
 				{
 					putchar(f);
 					putchar(e);
