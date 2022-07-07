@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isupper - check if the argument is lower ir upper case
  * @c: input character
