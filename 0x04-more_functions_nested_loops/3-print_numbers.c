@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - program print out numbers
- *
- * Return:print out number 0 to 9 with a new line
+ * Return: no return
  */
 void print_numbers(void)
 {
