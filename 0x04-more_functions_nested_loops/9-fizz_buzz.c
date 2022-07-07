@@ -22,11 +22,11 @@ int main(void)
 		}
 		else if (n % 5 == 0)
 		{
-			print(" Buzz");
+			printf(" Buzz");
 		}
 		else
 		{
-			print(" %d", n);
+			printf(" %d", n);
 		}
 	}
 	printf("\n");
