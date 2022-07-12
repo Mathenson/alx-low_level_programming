@@ -1,1 +1,1 @@
-This is the begining of pointers learnt in the ALX SE programme
+This is the beginning of low level language learn in ALX
