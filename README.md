@@ -1,1 +1,1 @@
-This is the begining of low level language C learnt in ALX
+This is the begining of pointers learnt in the ALX SE programme
