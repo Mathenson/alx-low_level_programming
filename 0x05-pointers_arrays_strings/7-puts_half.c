@@ -15,7 +15,7 @@ void puts_half(char *str)
 			break;
 		fem++;
 	}
-	
+
 	if (fem % 2 == 1)
 		i = fem / 2;
 	else
