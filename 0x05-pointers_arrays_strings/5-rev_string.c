@@ -1,4 +1,4 @@
-#include "man.h"
+#include "main.h"
 
 /**
  * rev_string - function will reverse input strings
