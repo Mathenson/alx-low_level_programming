@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strcat - concatenate two strings
  * @dest: destination file 
@@ -24,7 +23,6 @@ char *_strcat(char *dest, char *src)
 			break;
 		lo++;
 		vo++;
-
 	}
 	return (dest);
 }
